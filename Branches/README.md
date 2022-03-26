@@ -13,7 +13,7 @@ Reset to branch 0.
 
 ## Active
 
-[master](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyDeathStar/tree/master/)
+[main](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyDeathStar/tree/main/)
 
 ## Stale
 
@@ -23,6 +23,6 @@ Reset to branch 0.
 
 ***
 
-**File version:** `1 (2022, Friday, March 25th at 5:23 pm)`
+**File version:** `2 (2022, Friday, March 25th at 5:24 pm)`
 
 ***
